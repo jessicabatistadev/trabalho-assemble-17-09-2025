@@ -1,0 +1,8 @@
+ORG 0
+LDA 10
+ADD 11
+STA 12
+HLT
+10: DB 6
+11: DB 3
+12: DB 0
